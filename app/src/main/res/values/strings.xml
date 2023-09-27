@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TugasPresensiMobile</string>
+    <array name="attendance">
+        <item>Hadir Tepat Waktu</item>
+        <item>Sakit</item>
+        <item>Terlambat</item>
+        <item>Izin</item>
+    </array>
+</resources>
